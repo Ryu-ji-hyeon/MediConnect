@@ -3,14 +3,13 @@
 <table>
 <tr>
 <td>
-![image](https://github.com/user-attachments/assets/59469c7b-0dc3-4ce3-a828-0c57ed12c14e)
+![image](https://github.com/user-attachments/assets/9233440f-4f10-4e75-8ba9-a72817605f2e)
 </td>
 <td>
 </td>
 </tr>
 </table>
 </center>
-![splashscreen](https://github.com/user-attachments/assets/91a89214-b1e2-48c1-a4f5-9cb8df62d423)
 
 ## 🚀 프로젝트 개요
 이 프로젝트는 병원 진료 예약 및 처방 시스템으로, 환자가 진료 예약을 하고 의사가 해당 예약에 처방을 추가할 수 있는 기능을 제공합니다.
