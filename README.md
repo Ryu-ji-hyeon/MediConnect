@@ -3,9 +3,10 @@
 <table>
 <tr>
 <td>
-![image](https://github.com/user-attachments/assets/9233440f-4f10-4e75-8ba9-a72817605f2e)
+<img src="https://github.com/user-attachments/assets/59469c7b-0dc3-4ce3-a828-0c57ed12c14e" width="472">
 </td>
 <td>
+<img src="https://github.com/user-attachments/assets/26e18fed-e970-4582-85f0-eb3bab0dafa0" width="472">
 </td>
 </tr>
 </table>
