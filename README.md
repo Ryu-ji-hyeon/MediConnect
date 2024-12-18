@@ -1,5 +1,16 @@
 # MediConnect
-
+<center>
+<table>
+<tr>
+<td>
+<img ![image](https://github.com/user-attachments/assets/59469c7b-0dc3-4ce3-a828-0c57ed12c14e) width="472">
+</td>
+<td>
+<img src="https://github.com/KYEONGJUN-LEE/MotionDectection-FaceRecognition/assets/113089467/9f001baa-d4e6-44bb-bc4f-03e490a5d50f" width="472">
+</td>
+</tr>
+</table>
+</center>
 ![splashscreen](https://github.com/user-attachments/assets/91a89214-b1e2-48c1-a4f5-9cb8df62d423)
 
 ## 🚀 프로젝트 개요
